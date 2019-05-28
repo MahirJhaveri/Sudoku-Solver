@@ -6,6 +6,14 @@ Sudoku is an eample of a Constriant Satisfaction Problem in AI. The Algorithm wo
 
 ## An Easy Example
 Can be solved by repeated application of constraint propagation only.
+<pre>
+
+</pre>
+![alt text](https://raw.githubusercontent.com/MahirJhaveri/Sudoku-Solver/master/images/EasyTest.png)
 
 ## A Hard Example
 Requires both strategies to be solved
+<pre>
+
+</pre>
+![alt text](https://raw.githubusercontent.com/MahirJhaveri/Sudoku-Solver/master/images/HardTest.png)
